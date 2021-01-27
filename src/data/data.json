@@ -1,0 +1,143 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "title": "В сеть утек исходный код GitHub и GitHub Enterprise",
+        "content": "Произошло всё ещё 4 ноября 2020 года в 6:51 по московскому времени. Пользователь под ником nat, явно пытаясь выдать себя за руководителя GitHub Нэта Фридмэна, опубликовал в репозитории github/dmca исходные коды как самого проекта, так и его Enterprise-версии.",
+        "date": "11-11-2020"
+      },
+      {
+        "id": 2,
+        "title": "Huawei продаст Honor, чтобы вывести его из-под санкций США",
+        "content": "По информации Reuters, суббренд китайского производителя может отойти государству и дистрибьютору Digital China. Такой гамбит позволит смартфонам Honor снова продаваться на территории США и использовать Google Play Services. Занятно, что по данным источников Reuters, Digital China зарегистрирована в апреле и принадлежит Huawei. Huawei от комментариев отказалась.",
+        "date": "10-11-2020"
+      },
+      {
+        "id": 3,
+        "title": "У Telegram могут потребовать ключи шифрования для переписок пользователей Евросоюза",
+        "content": "Так, в неопубликованном пока документе говорится о том, что внутри Европейского союза планируется внедрить ряд новых мер, призванных остановить исламский экстремизм и терроризм. В числе прочего ожидается, что технологические компании, в активе которых имеются собственные мессенджеры, будут обязаны предоставлять властям данные о содержании зашифрованной переписки пользователей.",
+        "date": "09-11-2020"
+      },
+      {
+        "id": 4,
+        "title": "Последняя версия iOS 14 была взломана за считанные дни после релиза",
+        "content": "Компания Apple выпустила iOS 14.1 и 14.2 менее недели назад — 5 ноября 2020 года. А уже сейчас, разработчиками проекта checkra1n, в сети был опубликован рабочий джейлбрейк, который можно установить абсолютно на все iPhone 7 и 7 Plus, а также на ограниченное количество смартфонов на базе процессора Apple A11: iPhone 8, 8 Plus и iPhone X.",
+        "date": "08-11-2020"
+      },
+      {
+        "id": 5,
+        "title": "Хакеры украли более 1 ТБ данных компании Capcom",
+        "content": "Японская компания, положившая начало многим культовым игровым сериям (в том числе Resident Evil и Street Fighter) уже признала, что стала жертвой злоумышленников. По её словам, на руках у хакеров имеется доступ ко множеству баз данных игрового разработчика.",
+        "date": "07-11-2020"
+      },
+      {
+        "id": 6,
+        "title": "Смартфоны на Android 7.1.1 и старше не смогут открывать сайты уже в 2021 году",
+        "content": "Причиной столь массовой проблемы стало окончание срока действия перекрестной подписи для сертификации сайтов с шифрованием, введённой Let’s Encrypt и IdenTrust. Именно из-за этого уже с сентября 2021 года многие смартфоны на базе Android не смогут нормально открывать сайты.",
+        "date": "06-11-2020"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Xiaomi Mi 10T Lite 6/128GB Atlantic Blue",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYnlooFBMpqeXpiGpCtMqVNnCONgVi2edCHE5_QdHY83ynenv6ffIOONzWtYMfig&usqp=CAc",
+        "price": "8999,00"
+      },
+      {
+        "id": 2,
+        "title": "Xiaomi Poco X3 6/128GB Cobalt Blue",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQcW8oUzSWr_0qpxvYjpmGEyYvZ9I_knDEZJObMBhv1JglqMqE9nNT2Km4e221ofg&usqp=CAc",
+        "price": "6999,00"
+      },
+      {
+        "id": 3,
+        "title": "Samsung Galaxy Note 10 Lite 6/128Gb Black",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqSKz0cZz5kAV9khp3T7Mp5IsPzRg-iXhvX_CqZeap8bemdGO99s7TgHQKD90nQKD7nXz7mquH1K4&usqp=CAc",
+        "price": "12999,00"
+      },
+      {
+        "id": 4,
+        "title": "Xiaomi Redmi Note 9 Pro 6/128GB Interstellar Grey",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxe_oiVjFi2wvIv5SONManI8E6o8JzylscFSOi95l2AdW5LZ3X9bqjDDbht2K9&usqp=CAc",
+        "price": "6999,00"
+      },
+      {
+        "id": 5,
+        "title": "APPLE iPhone 12 Pro 128GB Pacific Blue",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPQVMyRpeBf7Nd2M7TJizY6Lg5Sr15egA-KT4D4m36D8nvpG9YBWQmd59v4EzORg&usqp=CAc",
+        "price": "39999,00"
+      },
+      {
+        "id": 6,
+        "title": "Huawei P40 lite 6/128GB Sakura Pink",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUG6Lor_SRUDnIXaZ8X74Rez3Rf92sHbUxHFvECalt5KhSq7ny5LstEMMeUlrn&usqp=CAc",
+        "price": "7499,00"
+      }
+      
+    ],
+    "pizza": [
+      {
+        "id": 1,
+        "title": "Вегетто-нью",
+        "desc": "Сыр Моцарелла, брокколи, лук, помидоры, перец сладкий, оливки, шампиньоны, соус «Pomodoro»",
+        "img":"https://i2.wp.com/xn--80ajicshj1da9g.xn--p1ai/wp-content/uploads/2016/02/2-e1456221365929.jpg?resize=300%2C300",
+        "price30": "310,00",
+        "price40": "530,00",
+        "weight30": "440г",
+        "weight40": "740г"
+      },
+      {
+        "id": 2,
+        "title": "Кальцоне",
+        "desc": "Сыр Моцарелла, ветчина, жареный цыпленок, соус «Pomodoro»",
+        "img":"https://i2.wp.com/xn--80ajicshj1da9g.xn--p1ai/wp-content/uploads/2016/02/2-e1456221585954.jpg?resize=300%2C300",
+        "price30": "245,00",
+        "price40": "335,00",
+        "weight30": "350г",
+        "weight40": "460г"
+      },
+      {
+        "id": 3,
+        "title": "Картофельная",
+        "desc": "Отв. картофель, бекон, шампиньоны чеснок, сыр Моцарелла, соус «Альфредо», чесночный соус",
+        "img":"https://i0.wp.com/xn--80ajicshj1da9g.xn--p1ai/wp-content/uploads/2016/02/1-e1456229344428.jpg?resize=300%2C300",
+        "price30": "169,00",
+        "price40": "239,00",
+        "weight30": "600г",
+        "weight40": "910г"
+      },
+      {
+        "id": 4,
+        "title": "Креветки бекон",
+        "desc": "Сыр Моцарелла, бекон, помидоры, креветки, специи, соус «Альфредо»",
+        "img":"https://i1.wp.com/xn--80ajicshj1da9g.xn--p1ai/wp-content/uploads/2016/02/-%D0%B1%D0%B5%D0%BA%D0%BE%D0%BD1-e1456229146154.jpg?resize=300%2C300",
+        "price30": "175,00",
+        "price40": "240,00",
+        "weight30": "550г",
+        "weight40": "760г"
+      },
+      {
+        "id": 5,
+        "title": "Курица грибы",
+        "desc": "Сыр Моцарелла, жареный цыпленок, шампиньоны, лук маринованный, специи, соус «Pomodoro»",
+        "img":"https://i0.wp.com/xn--80ajicshj1da9g.xn--p1ai/wp-content/uploads/2016/02/-%D0%B3%D1%80%D0%B8%D0%B1-e1456221085816.jpg?fit=780%2C518",
+        "price30": "169,00",
+        "price40": "265,00",
+        "weight30": "520г",
+        "weight40": "830г"
+      },
+      {
+        "id": 6,
+        "title": "Маргарита",
+        "desc": "Сыр Моцарелла, соус «Pomodoro», базилик",
+        "img":"https://i1.wp.com/xn--80ajicshj1da9g.xn--p1ai/wp-content/uploads/2016/02/-e1456221730921.jpg?fit=780%2C518",
+        "price30": "129,00",
+        "price40": "185,00",
+        "weight30": "500г",
+        "weight40": "820г"
+      }
+    ]
+  }
+  
+  
