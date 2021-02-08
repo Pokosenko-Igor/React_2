@@ -7,7 +7,7 @@ const Home = () => {
 	useEffect(() => {loadData();}, []);
 	
 	const loadData = async () => {
-		const response = await fetch("https://raw.githubusercontent.com/PlahoninAlexandr/fakeapis/main/db.json"),
+		const response = await fetch("https://raw.githubusercontent.com/Pokosenko-Igor/fakeapis/main/db.json"),
 		responseJson = await response.json();
 		setImgData(responseJson.images);
 	}
